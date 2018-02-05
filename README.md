@@ -13,16 +13,16 @@ My project will be a creation of a 2d side-scrolling beat em' up. This game will
 * Design and implement multiple enemy types to add variety to the game
 * Design at least 3 different levels
 ## Deadlines
-Monday 19th Febuary Project Management Document needs to be complete
-Friday 23rd Febuary project design document needs to be complete
-Friday 23rd March Project demo presentation
-Wednesday 28th March Overall project is due
+* Monday 19th Febuary Project Management Document needs to be complete
+* Friday 23rd Febuary project design document needs to be complete
+* Friday 23rd March Project demo presentation
+* Wednesday 28th March Overall project is due
 
 ## Overall Management Strategy
-5th-19th: I will finish this management document, aswell as begin research of game development
-19th-23rd: I will finish the design document 
-23rd Feb- 23rd March: Main bulk of the development of the game, by the 23rd of march I will have a presentable demo
-28th March: Final development on game
+* 5th-19th: I will finish this management document, aswell as begin research of game development
+* 19th-23rd: I will finish the design document 
+* 23rd Feb- 23rd March: Main bulk of the development of the game, by the 23rd of march I will have a presentable demo
+* 23rd- 28th March: Final development on game and I will complete the project evaluation
 
 ## Requirements
 The game engine I will use to develop this game is Unity. I will also need assets to be used in the game, I will create some assets aswell as getting some from the internet. To create and edit assets I will use Adobe Photoshop software.I will also need access to the internet so I can research how to design a 2d side scrolling beat em up, and how to use parts of Unity I am not familiar with.
@@ -32,7 +32,10 @@ The game engine I will use to develop this game is Unity. I will also need asset
 
 
 ## Research Plan
+### Research for vunerabilities in a system during development
 
+### Additional Research for game
+I will first need to research how to create backgrounds for levels in unity, I need this so my levels look interesting. Next I will research how to animate player models in Unity. Then I will need to research how to allow Unity to recognise collisions, this is so the game knows when the player hits a NPC and when the player gets hit. I will then need to research how to program enemy AI so that the game is more challenging for the player. 
 
 
 ## Overall GANTT Chart
