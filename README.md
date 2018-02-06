@@ -47,7 +47,8 @@ I will first need to research how to create backgrounds for levels in unity, I n
 
 
 ## Project Milestones
-* Obtain all assets 
+* Obtain all assets
+* 
 
 
 ## UI Designs
