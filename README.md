@@ -29,13 +29,14 @@ The game engine I will use to develop this game is Unity. I will also need asset
 
 
 ## General Plan
+### Cost
+### Scope
+### Time
+### Quality
+### Risks
+### Resources
 
 
-## Research Plan
-### Research for vunerabilities in a system during development
-
-### Additional Research for game
-I will first need to research how to create backgrounds for levels in unity, I need this so my levels look interesting. Next I will research how to animate player models in Unity. Then I will need to research how to allow Unity to recognise collisions, this is so the game knows when the player hits a NPC and when the player gets hit. I will then need to research how to program enemy AI so that the game is more challenging for the player. 
 
 
 ## Overall GANTT Chart
@@ -76,3 +77,6 @@ I will first need to research how to create backgrounds for levels in unity, I n
 
 
 ## 2nd Week Sprint
+
+## Research for vunerabilities in a system during development
+In this article I will be 
