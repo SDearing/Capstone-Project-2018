@@ -78,5 +78,6 @@ The game engine I will use to develop this game is Unity. I will also need asset
 
 ## 2nd Week Sprint
 
-## Research for vunerabilities in a system during development
-In this article I will be 
+## Research of how to reduce vunerabilities in software during development
+### Introduction
+In this report I will investigate possible vunerabilities that in software during development, how these vunerabilities affect businesses and how these vunerabilities can be reduced. Software development is the process of creating software to fufil certain criteria, in a basic sense software is developed by first creating a design, then creating a development plan then developing the software and finally testing and further maintenance on the software even when released to the public, however the order of development and how software is developed is determined by the software lifecycle chosen by the development team. To investigate this report I will investigate secondary data in the form of case studies, in these case studies I will analyse the different software life cycles used, the vunerabilities they were affected by and how they mitigated the vunerabilities.
