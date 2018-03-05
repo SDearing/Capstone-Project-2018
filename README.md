@@ -78,6 +78,10 @@ The game engine I will use to develop this game is Unity. I will also need asset
 
 ## 2nd Week Sprint
 
-## Research of how to reduce vunerabilities in software during development
+# Research of how to reduce vunerabilities in software during development
 ### Introduction
-In this report I will investigate possible vunerabilities that in software during development, how these vunerabilities affect businesses and how these vunerabilities can be reduced. Software development is the process of creating software to fufil certain criteria, in a basic sense software is developed by first creating a design, then creating a development plan then developing the software and finally testing and further maintenance on the software even when released to the public, however the order of development and how software is developed is determined by the software lifecycle chosen by the development team. To investigate this report I will investigate secondary data in the form of case studies, in these case studies I will analyse the different software life cycles used, the vunerabilities they were affected by and how they mitigated the vunerabilities.
+In this report I will investigate possible vunerabilities that in software during development, how these vunerabilities affect businesses and how these vunerabilities can be reduced. Software development is the process of creating software to fulfill certain criteria, in a basic sense software is developed by first creating a design, then creating a development plan then developing the software and finally testing and further maintenance on the software even when released to the public, however the order stages of development and how software is developed is determined by the software lifecycle chosen by the development team. For example . To investigate this report I will investigate secondary data in the form of case studies, in these case studies I will analyse the different software life cycles used, the vunerabilities they were affected by and how they mitigated the vunerabilities.
+questions to find out in primary research:
+* Do programmers understand vulnerabilities in software development?
+* Can they identify types of vulnerabilities in software?
+* Do programmers work to reduce software vulnerabilities and if so what techniques do they use?
